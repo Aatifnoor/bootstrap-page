@@ -1,13 +1,16 @@
+<!-- --------------------carousal text-------------------->
 .carousel-item p{
     color: #000;
  }   
  .carousel-item h5{
     color: #000;
  }   
+<!-- --------------------Cards-------------------->
  .row{
     margin : 10px;
     justify-content: center;
  }
+<!-- --------------------footer/icon-------------------->
  footer {
     text-align: center;
 }
